@@ -152,6 +152,17 @@ nav{
 	content: "";
 }
 
+.posts{
+	width: 90%;
+	display: grid;
+	margin: 0 auto;
+	grid-template-columns: auto auto auto auto;
+}
+
+body {
+	height: 4000px;
+}
+
 @media screen and ( max-width: 420px) {
 	.header-container{
 		width: 100%;
