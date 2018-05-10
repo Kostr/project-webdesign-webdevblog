@@ -235,9 +235,11 @@ body {
 	.bottom-card{
 		width: 250px;
 		margin: 0 auto;
-		
 	}
 
+	.post img{
+		max-width:100%;
+	}
 	.posts{
 		width: 90%;
 		display: grid;
